@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:01.340956
+#+DATE: 2015-08-30 20:06:04.567566
 #+TITLE: 佛說海意菩薩所問淨印法門經
 #+PROPERTY: CBETA_ID T13n0400
 #+PROPERTY: ID KR6h0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 400
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6h0004_T_008-0492b> ¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《佛說海意菩薩所問淨印法門經》¶
+《佛說海意菩薩所問淨印法門經》¶
 卷第八¶
 ¶
 譯經三藏朝散大夫試鴻臚卿光梵大師¶
@@ -49,7 +48,7 @@
 　菩薩云何精進修？¶
 　此義願佛為我宣，
 　我於是中修行住。』¶
-　彼大法王知意已，
+　彼大法主知意已，
 　為說發勤精進德；¶
 　發起、勤作行相應，
 　常所伺察、修行住。¶
@@ -95,7 +94,7 @@
 　護懈怠者伺察門，
 　修行隨何法住忍。¶
 　積集善法名發起，
-　成辦善法是勤作；¶
+　成辨善是法勤作；¶
 　伺察不樂於餘乘，
 　修行不壞諸業報。¶
 　發起了知於正念，

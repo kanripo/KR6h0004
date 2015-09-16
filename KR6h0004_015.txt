@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:01.492514
+#+DATE: 2015-08-30 20:06:08.897693
 #+TITLE: 佛說海意菩薩所問淨印法門經
 #+PROPERTY: CBETA_ID T13n0400
 #+PROPERTY: ID KR6h0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 400
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6h0004_T_015-0512b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 《佛說海意菩薩所問淨印法門經》¶
-卷第十五¶
+《佛說海意菩薩所問淨印法門經》¶
+卷第十五五¶
 ¶
 譯經三藏朝散大夫試鴻臚卿光梵¶
 大師賜紫沙門臣惟淨等奉　詔譯¶
@@ -204,7 +203,7 @@
 名自境界？謂六塵境來為障礙，汝於爾時、¶
 應當如實現前覺了諦觀菩提，應於菩提起¶
 深遠想，勿起近想。』時善淨境界苾芻，承彼¶
-世尊如所教授已，深固志意不生放逸，求離¶
+世尊如所教授己，深固志意不生放逸，求離¶
 煩惱如理修行，於自境界如實伺察。復云何¶
 是深固伺察？所謂眼境界即空境界，空境界¶
 即一切眾生境界，一切眾生境界、空境界即¶

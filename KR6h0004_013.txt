@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:01.456452
+#+DATE: 2015-08-30 20:06:08.854568
 #+TITLE: 佛說海意菩薩所問淨印法門經
 #+PROPERTY: CBETA_ID T13n0400
 #+PROPERTY: ID KR6h0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 400
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6h0004_T_013-0507c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 13
 ¶
 ¶
-
- 《佛說海意菩薩所問淨印法門經》¶
+《佛說海意菩薩所問淨印法門經》¶
 卷第十三¶
 ¶
 譯經三藏朝散大夫試鴻臚卿光梵¶
@@ -262,5 +261,5 @@
 海意！汝且觀是諸菩薩者所作事業而悉最¶
 勝，雖入寂靜三摩地中，而能出過聲聞、緣覺¶
 解脫境界。¶
-《佛說海意菩薩所問淨印法門經》卷第十三¶
+《佛說海意菩薩所問淨印法門經》¶
 

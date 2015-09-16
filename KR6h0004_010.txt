@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:01.391262
+#+DATE: 2015-08-30 20:06:08.785977
 #+TITLE: 佛說海意菩薩所問淨印法門經
 #+PROPERTY: CBETA_ID T13n0400
 #+PROPERTY: ID KR6h0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 400
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6h0004_T_010-0498c> ¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 《佛說海意菩薩所問淨印法門經》¶
+《佛說海意菩薩所問淨印法門經》¶
 卷第十¶
 ¶
 西天譯經三藏朝散大夫試鴻臚卿傳梵¶
@@ -89,8 +88,7 @@
 生熱惱。復有一法，恭敬聽法之者善為說¶
 法。復有一法，於親友中離諸貪愛，於一切¶
 眾生起平等心。復有一法，於說法師所不起¶
-諂心而常讚歎。復有一法，以調順心故荷¶
-擔一切眾生。復有一法，於諸波羅蜜多相應¶
+諂心而常讚歎。復有一法，以調順心故荷擔一切眾生。復有一法，於諸波羅蜜多相應¶
 勤求。復有一法，精進長養菩提道行。復有¶
 一法，建立信根令無動轉。復有一法，於國¶
 城中不空受食。復有一法，積集七種聖財而¶

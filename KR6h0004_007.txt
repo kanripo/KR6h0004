@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:01.317690
+#+DATE: 2015-08-30 20:06:08.692975
 #+TITLE: 佛說海意菩薩所問淨印法門經
 #+PROPERTY: CBETA_ID T13n0400
 #+PROPERTY: ID KR6h0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 400
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6h0004_T_007-0489b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《佛說海意菩薩所問淨印法門經》¶
+《佛說海意菩薩所問淨印法門經》¶
 卷第七¶
 ¶
 譯經三藏朝散大夫試鴻臚卿光梵大師¶
@@ -62,7 +61,7 @@
 <pb:KR6h0004_T_007-0490a>¶
 耀。又舍利子！譬如無價大摩尼寶，最極殊妙¶
 離諸塵垢。不退轉菩薩亦復如是，離諸慢心。¶
-又舍利子！譬如世間穀稼成熟實穗垂𥠄。菩¶
+又舍利子！譬如世間穀稼成熟實穗垂[禾*耑]。菩¶
 薩亦復如是，所修善法得圓滿已，於諸眾生¶
 謙下無礙。又舍利子！譬如世間劫火歘起，¶
 而此大地一切草木燒爇無餘。菩薩亦復如¶

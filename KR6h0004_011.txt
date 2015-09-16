@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:01.415879
+#+DATE: 2015-08-30 20:06:03.718798
 #+TITLE: 佛說海意菩薩所問淨印法門經
 #+PROPERTY: CBETA_ID T13n0400
 #+PROPERTY: ID KR6h0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 400
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6h0004_T_011-0501c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 《佛說海意菩薩所問淨印法門經》¶
-卷第十一¶
+《佛說海意菩薩所問淨印法門經》¶
+卷第十一之十二¶
 ¶
 西天譯經三藏朝散大夫試鴻臚卿傳梵¶
 大師賜紫沙門臣法護等奉　詔譯¶
@@ -85,7 +84,7 @@
 修勝行故；二者、歡喜常知足故；三者、清涼永¶
 無熱惱故。復有三法：一者、任持所聞；二者、總¶
 持文句；三者、入於智聲前後際斷故。復有三¶
-法：一者、攝集七聖財故而不匱乏；二者、法¶
+法：一者、攝集七聖財故而不匱之；二者、法¶
 施無障礙故能行大捨；三者、所有財利鈞¶
 眾分故常得大富。復有三法：一者、誠諦入勝
 <pb:KR6h0004_T_011-0502c>¶

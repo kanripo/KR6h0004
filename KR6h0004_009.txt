@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:01.366458
+#+DATE: 2015-08-30 20:06:07.972929
 #+TITLE: 佛說海意菩薩所問淨印法門經
 #+PROPERTY: CBETA_ID T13n0400
 #+PROPERTY: ID KR6h0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 400
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6h0004_T_009-0495b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《佛說海意菩薩所問淨印法門經》¶
+《佛說海意菩薩所問淨印法門經》¶
 卷第九¶
 ¶
 譯經三藏朝散大夫試鴻臚卿光梵大師¶

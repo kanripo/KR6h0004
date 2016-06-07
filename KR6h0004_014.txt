@@ -1,21 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:01.475689
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:14
 #+TITLE: 佛說海意菩薩所問淨印法門經
 #+PROPERTY: CBETA_ID T13n0400
 #+PROPERTY: ID KR6h0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 400
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6h0004_T_014-0510a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 14
 ¶
 ¶
-
- 《佛說海意菩薩所問淨印法門經》¶
+《佛說海意菩薩所問淨印法門經》¶
+卷第十四佛說海意菩薩所問淨印法門經¶
 卷第十四¶
 ¶
-譯經三藏朝散大夫試鴻臚卿光梵¶
+譯經三藏朝散大夫試鴻臚卿光梵大師賜紫沙門臣惟淨等奉　詔譯譯經三藏朝散大夫試鴻臚卿光梵¶
 大師賜紫沙門臣惟淨等奉　詔譯¶
 
 「復次，海意！我今復以喻明斯義。譬如世間，¶

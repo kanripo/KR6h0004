@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:01.202432
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:14
 #+TITLE: 佛說海意菩薩所問淨印法門經
 #+PROPERTY: CBETA_ID T13n0400
 #+PROPERTY: ID KR6h0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 400
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6h0004_T_002-0476c> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《佛說海意菩薩所問淨印法門經》¶
+《佛說海意菩薩所問淨印法門經》¶
 卷第二¶
 ¶
 譯經三藏朝散大夫試鴻臚卿光梵大師¶
@@ -218,12 +217,12 @@
 　勤求出家佛眼明；¶
 　身離能修寂靜心，
 　心離常依正法行。¶
-　所行常說真實語，
+　所行常說真寶語，
 　如說能行誓願明；¶
 　清淨不為染所摧，
 　無破毀故修戒行。¶
 　於戒無缺亦無壞，
-　小罪能壞大懼心；¶
+　小罪能懷大懼心；¶
 　護戒亦不求生天，
 　戒常潔白無濁染。¶
 　常能親近善知識，
@@ -290,9 +289,9 @@
 　虛空無垢尚能染，
 　空中鳥跡尚可見；¶
 　煩惱不染菩提心，
-　自性本來常清淨。
+　自性本來常清淨。」
 #+END_VERSE
-」¶
+¶
 
 「復次，海意！云何是為菩薩於其所發一切智¶
 心寶，堪任摧壓？又復何謂摧壓行相？海意！¶
